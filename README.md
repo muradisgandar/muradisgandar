@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+📫 How to reach me:
+
+   isgandarli_murad@mail.ru, muradisgenderli441@gmail.com
+
+   [Facebook](https://www.facebook.com/muradisgandar)
+   
+   [LinkedIn](https://www.linkedin.com/in/murad-isgandarli-23500b198/)
