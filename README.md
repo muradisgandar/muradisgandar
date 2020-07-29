@@ -23,17 +23,12 @@ I am a software developer , growing software engineer:)
 
 Hungry to learn new technologies, improve technical skills and apply them in software development.
 
-Open Source developer at [GDG Baku](https://github.com/orgs/GDG-Baku/) and [BSP Tech](https://github.com/orgs/bsp-tech/)
 
 *Email adresses:*
 
 isgandarli_murad@mail.ru
 
 muradisgenderli441@gmail.com
-
-*Education*
-
-2018 - now: BSc in *Computer Engineering*, [ASOIU](http://www.asoiu.edu.az/en)
 
 
 <a href="https://github.com/muradisgandar">
