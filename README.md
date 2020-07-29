@@ -25,6 +25,7 @@ Working now startup project in Poland with remotely
 
 Open Source contributor at [GDG Baku](https://github.com/orgs/GDG-Baku/) and [BSP Tech](https://github.com/orgs/bsp-tech/)
 
+
 *Email adresses:*
 
 isgandarli_murad@mail.ru
