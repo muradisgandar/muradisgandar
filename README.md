@@ -1,23 +1,34 @@
-### Hi there 👋
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there!
+<h3 align="center">Social Networks</h3>
 
-<!--
-**muradisgandar/muradisgandar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  
+<a href="https://www.facebook.com/muradisgandar">
+<img alt="Facebook URL" src="https://img.shields.io/twitter/url?label=Facebook&logo=Facebook&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmuradisgandar%2F">
+</a>  
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/murad-isgandarli-23500b198/">
+<img alt="LinkedIn URL" src="https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmurad-isgandarli-23500b198%2F">
+</a>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
-📫 How to reach me:
+</p>
 
-   isgandarli_murad@mail.ru, muradisgenderli441@gmail.com
+I am a software developer
 
-   [Facebook](https://www.facebook.com/muradisgandar)
+*Email adresses:*
+
+*isgandarli_murad@mail.ru*
+
+*muradisgenderli441@gmail.com*
+
+2018 - now: BSc in *Computer Engineering*, [ASOIU](http://www.asoiu.edu.az/en)
+
+
+<a href="https://github.com/muradisgandar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muradisgandar&zsh-theme&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muradisgandar&zsh-theme&layout=compact" />
+</a>
+
    
-   [LinkedIn](https://www.linkedin.com/in/murad-isgandarli-23500b198/)
+
+   
