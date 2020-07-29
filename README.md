@@ -21,6 +21,8 @@
 
 I am a software developer , growing software engineer:)
 
+Hungry to learn new technologies, improve technical skills and apply them in software development.
+
 Working now startup project in Poland with remotely
 
 Open Source contributor at [GDG Baku](https://github.com/orgs/GDG-Baku/) and [BSP Tech](https://github.com/orgs/bsp-tech/)
