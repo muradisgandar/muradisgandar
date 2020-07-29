@@ -19,7 +19,9 @@
 
 </p>
 
-I am a software developer
+I am a software developer , growing software engineer:)
+
+Working now startup project in Poland with remotely
 
 Open Source contributor at [GDG Baku](https://github.com/orgs/GDG-Baku/) and [BSP Tech](https://github.com/orgs/bsp-tech/)
 
