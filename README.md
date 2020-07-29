@@ -17,9 +17,11 @@ I am a software developer
 
 *Email adresses:*
 
-*isgandarli_murad@mail.ru*
+isgandarli_murad@mail.ru
 
-*muradisgenderli441@gmail.com*
+muradisgenderli441@gmail.com
+
+*Education*
 
 2018 - now: BSc in *Computer Engineering*, [ASOIU](http://www.asoiu.edu.az/en)
 
