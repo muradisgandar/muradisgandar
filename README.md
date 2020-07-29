@@ -23,7 +23,7 @@ I am a software developer , growing software engineer:)
 
 Hungry to learn new technologies, improve technical skills and apply them in software development.
 
-Open Source contributor at [GDG Baku](https://github.com/orgs/GDG-Baku/) and [BSP Tech](https://github.com/orgs/bsp-tech/)
+Open Source developer at [GDG Baku](https://github.com/orgs/GDG-Baku/) and [BSP Tech](https://github.com/orgs/bsp-tech/)
 
 *Email adresses:*
 
