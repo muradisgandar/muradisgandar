@@ -23,7 +23,7 @@ I am a software developer , growing software engineer:)
 
 Hungry to learn new technologies, improve technical skills and apply them in software development.
 
-*Working history*
+*Working history:*
 
 Java developer at startup project in Poland via remote working(from June 2020)
 
