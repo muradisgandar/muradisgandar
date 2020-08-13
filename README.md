@@ -24,11 +24,9 @@ I am a software developer , growing software engineer:)
 Hungry to learn new technologies, improve technical skills and apply them in software development.
 
 
-*Email adresses:*
+*Email adress:*
 
-isgandarli_murad@mail.ru
-
-muradisgenderli441@gmail.com
+murad.isgandar@gmail.com
 
 
 <a href="https://github.com/muradisgandar">
