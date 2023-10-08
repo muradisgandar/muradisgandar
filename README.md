@@ -19,7 +19,7 @@
 
 </p>
 
-I am a software developer , growing software engineer:)
+I am a software engineer.
 
 Hungry to learn new technologies, improve technical skills and apply them in software development.
 
