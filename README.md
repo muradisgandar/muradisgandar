@@ -11,7 +11,7 @@
 <img alt="LinkedIn URL" src="https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmurad-isgandarli-23500b198%2F">
 </a> 
 
-<a href="https://muradisgandarli.blogspot.com/">
+<a href="https://murad-tech.blogspot.com/">
 <img alt="Blogspot URL" src="https://img.shields.io/badge/Blogspot-Blog-red">
 </a> 
 
